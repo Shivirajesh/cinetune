@@ -7,8 +7,19 @@ CineTune is a full-stack AI recommendation web app that suggests movies and TV s
 ---
 
 ##  Live Demo
+<img width="1470" height="836" alt="Login" src="https://github.com/user-attachments/assets/71c00faf-8213-4a83-834e-a6bd47a479f0" />
 
 <img width="1470" height="956" alt="home page" src="https://github.com/user-attachments/assets/27d64e19-cb2f-4682-a45b-ac33f3e66480" />
+
+<img width="1470" height="956" alt="today&#39;s trending" src="https://github.com/user-attachments/assets/c975dd12-24b1-4fd5-96c3-39e4d6147935" />
+
+<img width="1470" height="832" alt="watchlist and suggestion" src="https://github.com/user-attachments/assets/896c65b8-c0d3-4e11-a3a5-3233c3cb1bfa" />
+
+<img width="1470" height="956" alt="recommedation based on search" src="https://github.com/user-attachments/assets/a9042299-6e49-4c8b-9c88-c1c38a6ccb98" />
+
+
+<img width="1470" height="956" alt="search and recommendation" src="https://github.com/user-attachments/assets/f91cba3a-5bef-44a6-801e-7d0f0caf3def" />
+
 
 
 ---
