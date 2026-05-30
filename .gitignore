@@ -1,0 +1,30 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Similarity matrices
+backend/data/movies_similarity.pkl
+backend/data/series_similarity.pkl
+backend/data/similarity_matrix.pkl
+
+# CSV datasets
+backend/data/movies.csv
+backend/data/series.csv
+
+# Environment
+.env
+*.env
+
+# OS files
+.DS_Store
+**/.DS_Store
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Pycache
+**/__pycache__/
+*.pyc
